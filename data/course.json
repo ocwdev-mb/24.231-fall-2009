@@ -1,0 +1,44 @@
+{
+  "term": "Fall",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Ethics"
+    ]
+  ],
+  "legacy_uid": "745309be-ca7d-4e11-f2e6-e90c3a0b4d77",
+  "instructors": {
+    "content": [
+      "ee1e5419-b616-fe80-7215-034606870737"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "03f3d155-4a04-cb93-1124-54f4d9b448ff",
+    "website": "24-231-ethics-fall-2009"
+  },
+  "course_title": "Ethics",
+  "course_description": "This will be a seminar on classic and contemporary work on central topics in ethics. The first third of the course will focus on **metaethics**: we will examine the meaning of moral claims and ask whether there is any sense in which moral principles are objectively valid. The second third of the course will focus on **normative ethics**: what makes our lives worth living, what makes our actions right or wrong, and what do we owe to others? The final third of the course will focus on **moral character**: what is virtue, and how important is it? Can we be held responsible for what we do? When and why?\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.231",
+  "course_image_thumbnail": {
+    "content": "bb1c7174-3919-c405-eb55-ea27d5d2535a",
+    "website": "24-231-ethics-fall-2009"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments",
+    "Presentation Assignments"
+  ],
+  "site_uid": "67ba4123-1ccd-4d26-8f13-61f839bd2f2d",
+  "site_short_id": "24.231-fall-2009",
+  "title": "Course Metadata"
+}
